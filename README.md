@@ -16,9 +16,8 @@ To run on local host
 1. git clone https://github.com/lurdray/recipe_api_x.git
 2. cd recipe_api_x
 3. source venv/bin/activate
-4. pip3 install -r requirements.txt
-5. python3 manage.py makemigrations
-6. python3 manage.py migrate
-7. python3 manage.py runserver
-8. go-to localhost:8000/swagger/
+4. python3 manage.py makemigrations
+5. python3 manage.py migrate
+6. python3 manage.py runserver
+7. go-to localhost:8000/swagger/
 
